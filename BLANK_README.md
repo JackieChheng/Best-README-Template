@@ -15,22 +15,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/JackieChheng/repo_name">
+  <a href="https://github.com/JackieChheng/NoteTaker">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">NoteTaker</h3>
 
   <p align="center">
-    project_description
+    An easy way to save/delete notes!
     <br />
-    <a href="https://github.com/JackieChheng/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JackieChheng/NoteTaker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JackieChheng/repo_name">View Demo</a>
+    <a href="https://github.com/JackieChheng/NoteTaker">View Demo</a>
     ·
-    <a href="https://github.com/JackieChheng/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/JackieChheng/NoteTaker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JackieChheng/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/JackieChheng/NoteTaker/issues">Request Feature</a>
   </p>
 </div>
 
@@ -68,7 +68,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `JackieChheng`, `repo_name`, ``, `jackie-chheng-0037a31a1`, `Jackiechheng4@gmail.com_client`, `Jackiechheng4@gmail.com`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,7 +75,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![Heroku][Heroku.com]][Heroku-url]
+* [![Express.js][Express.js.com]][Express.js-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,12 +86,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+A list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
@@ -99,18 +99,15 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/JackieChheng/repo_name.git
+   git clone https://github.com/JackieChheng/NoteTaker.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   npm install express
+   npm install uuid
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -120,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use this website as a easy note taking website whenever you need to remember things
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -131,12 +128,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Writing Notes
+- [x] Deleting Notes
+- [x] Saving
+    - [ ] Color?
 
-See the [open issues](https://github.com/JackieChheng/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/JackieChheng/NoteTaker/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,7 +171,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Jackiechheng4@gmail.com
 
-Project Link: [https://github.com/JackieChheng/repo_name](https://github.com/JackieChheng/repo_name)
+Project Link: [https://github.com/JackieChheng/NoteTaker](https://github.com/JackieChheng/NoteTaker)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,16 +179,16 @@ Project Link: [https://github.com/JackieChheng/repo_name](https://github.com/Jac
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/JackieChheng/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/JackieChheng/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/JackieChheng/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/JackieChheng/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/JackieChheng/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/JackieChheng/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/JackieChheng/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/JackieChheng/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/JackieChheng/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/JackieChheng/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/JackieChheng/NoteTaker.svg?style=for-the-badge
+[contributors-url]: https://github.com/JackieChheng/NoteTaker/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/JackieChheng/NoteTaker.svg?style=for-the-badge
+[forks-url]: https://github.com/JackieChheng/NoteTaker/network/members
+[stars-shield]: https://img.shields.io/github/stars/JackieChheng/NoteTaker.svg?style=for-the-badge
+[stars-url]: https://github.com/JackieChheng/NoteTaker/stargazers
+[issues-shield]: https://img.shields.io/github/issues/JackieChheng/NoteTaker.svg?style=for-the-badge
+[issues-url]: https://github.com/JackieChheng/NoteTaker/issues
+[license-shield]: https://img.shields.io/github/license/JackieChheng/NoteTaker.svg?style=for-the-badge
+[license-url]: https://github.com/JackieChheng/NoteTaker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jackie-chheng-0037a31a1
 [product-screenshot]: images/screenshot.png
@@ -211,3 +208,9 @@ Project Link: [https://github.com/JackieChheng/repo_name](https://github.com/Jac
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Express.js.com]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[Express.js-url]: https://expressjs.com
+[Node.JS.com]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[Node.JS-url]: https://nodejs.com
+[Heroku.com]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white
+[Heroku-url]: https://heroku.com
