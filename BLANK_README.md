@@ -15,22 +15,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/JackieChheng/NoteTaker">
+  <a href="https://github.com/JackieChheng/a">
   </a>
 
-<h3 align="center">NoteTaker</h3>
+<h3 align="center">a</h3>
 
   <p align="center">
     An easy way to save/delete notes!
     <br />
-    <a href="https://github.com/JackieChheng/NoteTaker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JackieChheng/a"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JackieChheng/NoteTaker">View Demo</a>
+    <a href="https://github.com/JackieChheng/a">View Demo</a>
     ·
-    <a href="https://github.com/JackieChheng/NoteTaker/issues">Report Bug</a>
+    <a href="https://github.com/JackieChheng/a/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JackieChheng/NoteTaker/issues">Request Feature</a>
+    <a href="https://github.com/JackieChheng/a/issues">Request Feature</a>
   </p>
 </div>
 
@@ -101,7 +101,7 @@ A list things you need to use the software and how to install them.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/JackieChheng/NoteTaker.git
+   git clone https://github.com/JackieChheng/a.git
    ```
 2. Install NPM packages
    ```sh
@@ -117,7 +117,7 @@ A list things you need to use the software and how to install them.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this website as a easy note taking website whenever you need to remember things
+b
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -128,12 +128,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Writing Notes
-- [x] Deleting Notes
-- [x] Saving
-    - [ ] Color?
+- [x] 
+- [x] 
+- [x] 
+    - [ ] 
 
-See the [open issues](https://github.com/JackieChheng/NoteTaker/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/JackieChheng/a/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,7 +171,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Jackiechheng4@gmail.com
 
-Project Link: [https://github.com/JackieChheng/NoteTaker](https://github.com/JackieChheng/NoteTaker)
+Project Link: [https://github.com/JackieChheng/a](https://github.com/JackieChheng/a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,16 +179,16 @@ Project Link: [https://github.com/JackieChheng/NoteTaker](https://github.com/Jac
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/JackieChheng/NoteTaker.svg?style=for-the-badge
-[contributors-url]: https://github.com/JackieChheng/NoteTaker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/JackieChheng/NoteTaker.svg?style=for-the-badge
-[forks-url]: https://github.com/JackieChheng/NoteTaker/network/members
-[stars-shield]: https://img.shields.io/github/stars/JackieChheng/NoteTaker.svg?style=for-the-badge
-[stars-url]: https://github.com/JackieChheng/NoteTaker/stargazers
-[issues-shield]: https://img.shields.io/github/issues/JackieChheng/NoteTaker.svg?style=for-the-badge
-[issues-url]: https://github.com/JackieChheng/NoteTaker/issues
-[license-shield]: https://img.shields.io/github/license/JackieChheng/NoteTaker.svg?style=for-the-badge
-[license-url]: https://github.com/JackieChheng/NoteTaker/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/JackieChheng/a.svg?style=for-the-badge
+[contributors-url]: https://github.com/JackieChheng/a/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/JackieChheng/a.svg?style=for-the-badge
+[forks-url]: https://github.com/JackieChheng/a/network/members
+[stars-shield]: https://img.shields.io/github/stars/JackieChheng/a.svg?style=for-the-badge
+[stars-url]: https://github.com/JackieChheng/a/stargazers
+[issues-shield]: https://img.shields.io/github/issues/JackieChheng/a.svg?style=for-the-badge
+[issues-url]: https://github.com/JackieChheng/a/issues
+[license-shield]: https://img.shields.io/github/license/JackieChheng/a.svg?style=for-the-badge
+[license-url]: https://github.com/JackieChheng/a/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jackie-chheng-0037a31a1
 [product-screenshot]: images/screenshot.png
